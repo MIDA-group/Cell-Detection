@@ -1,0 +1,5730 @@
+Total Localization Error: 1.0034
+Precision: 0.9963
+Recall: 0.5000
+F-score: 0.6658
+
+Detailed Errors:
+
+Image 1:
+GT centroids: 19
+Pred centroids: 0
+Image error: 19.0000
+False negatives: 19
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 2:
+GT centroids: 10
+Pred centroids: 0
+Image error: 10.0000
+False negatives: 10
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 3:
+GT centroids: 68
+Pred centroids: 0
+Image error: 68.0000
+False negatives: 68
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 4:
+GT centroids: 29
+Pred centroids: 0
+Image error: 29.0000
+False negatives: 29
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 5:
+GT centroids: 16
+Pred centroids: 0
+Image error: 16.0000
+False negatives: 16
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 6:
+GT centroids: 6
+Pred centroids: 0
+Image error: 6.0000
+False negatives: 6
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 7:
+GT centroids: 9
+Pred centroids: 0
+Image error: 9.0000
+False negatives: 9
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 8:
+GT centroids: 8
+Pred centroids: 0
+Image error: 8.0000
+False negatives: 8
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 9:
+GT centroids: 15
+Pred centroids: 1
+Image error: 16.0000
+False negatives: 15
+False positives: 1
+Precision: 0.9375
+Recall: 0.5
+F-score: 0.6521739130434783
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 1
+
+Image 10:
+GT centroids: 10
+Pred centroids: 0
+Image error: 10.0000
+False negatives: 10
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 11:
+GT centroids: 39
+Pred centroids: 0
+Image error: 39.0000
+False negatives: 39
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 12:
+GT centroids: 5
+Pred centroids: 0
+Image error: 5.0000
+False negatives: 5
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 13:
+GT centroids: 13
+Pred centroids: 0
+Image error: 13.0000
+False negatives: 13
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 14:
+GT centroids: 25
+Pred centroids: 0
+Image error: 25.0000
+False negatives: 25
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 15:
+GT centroids: 7
+Pred centroids: 0
+Image error: 7.0000
+False negatives: 7
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 16:
+GT centroids: 28
+Pred centroids: 0
+Image error: 28.0000
+False negatives: 28
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 17:
+GT centroids: 3
+Pred centroids: 0
+Image error: 3.0000
+False negatives: 3
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 18:
+GT centroids: 12
+Pred centroids: 0
+Image error: 12.0000
+False negatives: 12
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 19:
+GT centroids: 3
+Pred centroids: 0
+Image error: 3.0000
+False negatives: 3
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 20:
+GT centroids: 21
+Pred centroids: 0
+Image error: 21.0000
+False negatives: 21
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 21:
+GT centroids: 8
+Pred centroids: 0
+Image error: 8.0000
+False negatives: 8
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 22:
+GT centroids: 2
+Pred centroids: 0
+Image error: 2.0000
+False negatives: 2
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 23:
+GT centroids: 10
+Pred centroids: 0
+Image error: 10.0000
+False negatives: 10
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 24:
+GT centroids: 8
+Pred centroids: 0
+Image error: 8.0000
+False negatives: 8
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 25:
+GT centroids: 9
+Pred centroids: 0
+Image error: 9.0000
+False negatives: 9
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 26:
+GT centroids: 9
+Pred centroids: 0
+Image error: 9.0000
+False negatives: 9
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 27:
+GT centroids: 4
+Pred centroids: 0
+Image error: 4.0000
+False negatives: 4
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 28:
+GT centroids: 25
+Pred centroids: 0
+Image error: 25.0000
+False negatives: 25
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 29:
+GT centroids: 65
+Pred centroids: 0
+Image error: 65.0000
+False negatives: 65
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 30:
+GT centroids: 21
+Pred centroids: 0
+Image error: 21.0000
+False negatives: 21
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 31:
+GT centroids: 16
+Pred centroids: 0
+Image error: 16.0000
+False negatives: 16
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 32:
+GT centroids: 23
+Pred centroids: 0
+Image error: 23.0000
+False negatives: 23
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 33:
+GT centroids: 59
+Pred centroids: 0
+Image error: 59.0000
+False negatives: 59
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 34:
+GT centroids: 8
+Pred centroids: 0
+Image error: 8.0000
+False negatives: 8
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 35:
+GT centroids: 6
+Pred centroids: 0
+Image error: 6.0000
+False negatives: 6
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 36:
+GT centroids: 25
+Pred centroids: 0
+Image error: 25.0000
+False negatives: 25
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 37:
+GT centroids: 10
+Pred centroids: 0
+Image error: 10.0000
+False negatives: 10
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 38:
+GT centroids: 26
+Pred centroids: 0
+Image error: 26.0000
+False negatives: 26
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 39:
+GT centroids: 5
+Pred centroids: 0
+Image error: 5.0000
+False negatives: 5
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 40:
+GT centroids: 34
+Pred centroids: 0
+Image error: 34.0000
+False negatives: 34
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 41:
+GT centroids: 12
+Pred centroids: 0
+Image error: 12.0000
+False negatives: 12
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 42:
+GT centroids: 34
+Pred centroids: 0
+Image error: 34.0000
+False negatives: 34
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 43:
+GT centroids: 11
+Pred centroids: 0
+Image error: 11.0000
+False negatives: 11
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 44:
+GT centroids: 53
+Pred centroids: 0
+Image error: 53.0000
+False negatives: 53
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 45:
+GT centroids: 43
+Pred centroids: 0
+Image error: 43.0000
+False negatives: 43
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 46:
+GT centroids: 11
+Pred centroids: 0
+Image error: 11.0000
+False negatives: 11
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 47:
+GT centroids: 10
+Pred centroids: 0
+Image error: 10.0000
+False negatives: 10
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 48:
+GT centroids: 40
+Pred centroids: 0
+Image error: 40.0000
+False negatives: 40
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 49:
+GT centroids: 26
+Pred centroids: 0
+Image error: 26.0000
+False negatives: 26
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 50:
+GT centroids: 4
+Pred centroids: 0
+Image error: 4.0000
+False negatives: 4
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 51:
+GT centroids: 42
+Pred centroids: 0
+Image error: 42.0000
+False negatives: 42
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 52:
+GT centroids: 8
+Pred centroids: 0
+Image error: 8.0000
+False negatives: 8
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 53:
+GT centroids: 13
+Pred centroids: 0
+Image error: 13.0000
+False negatives: 13
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 54:
+GT centroids: 4
+Pred centroids: 0
+Image error: 4.0000
+False negatives: 4
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 55:
+GT centroids: 6
+Pred centroids: 0
+Image error: 6.0000
+False negatives: 6
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 56:
+GT centroids: 14
+Pred centroids: 0
+Image error: 14.0000
+False negatives: 14
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 57:
+GT centroids: 47
+Pred centroids: 0
+Image error: 47.0000
+False negatives: 47
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 58:
+GT centroids: 8
+Pred centroids: 0
+Image error: 8.0000
+False negatives: 8
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 59:
+GT centroids: 9
+Pred centroids: 0
+Image error: 9.0000
+False negatives: 9
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 60:
+GT centroids: 54
+Pred centroids: 0
+Image error: 54.0000
+False negatives: 54
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 61:
+GT centroids: 12
+Pred centroids: 0
+Image error: 12.0000
+False negatives: 12
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 62:
+GT centroids: 7
+Pred centroids: 0
+Image error: 7.0000
+False negatives: 7
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 63:
+GT centroids: 28
+Pred centroids: 0
+Image error: 28.0000
+False negatives: 28
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 64:
+GT centroids: 7
+Pred centroids: 0
+Image error: 7.0000
+False negatives: 7
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 65:
+GT centroids: 5
+Pred centroids: 0
+Image error: 5.0000
+False negatives: 5
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 66:
+GT centroids: 8
+Pred centroids: 0
+Image error: 8.0000
+False negatives: 8
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 67:
+GT centroids: 16
+Pred centroids: 0
+Image error: 16.0000
+False negatives: 16
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 68:
+GT centroids: 41
+Pred centroids: 0
+Image error: 41.0000
+False negatives: 41
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 69:
+GT centroids: 17
+Pred centroids: 0
+Image error: 17.0000
+False negatives: 17
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 70:
+GT centroids: 72
+Pred centroids: 0
+Image error: 72.0000
+False negatives: 72
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 71:
+GT centroids: 42
+Pred centroids: 0
+Image error: 42.0000
+False negatives: 42
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 72:
+GT centroids: 12
+Pred centroids: 0
+Image error: 12.0000
+False negatives: 12
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 73:
+GT centroids: 14
+Pred centroids: 0
+Image error: 14.0000
+False negatives: 14
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 74:
+GT centroids: 14
+Pred centroids: 0
+Image error: 14.0000
+False negatives: 14
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 75:
+GT centroids: 12
+Pred centroids: 0
+Image error: 12.0000
+False negatives: 12
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 76:
+GT centroids: 9
+Pred centroids: 0
+Image error: 9.0000
+False negatives: 9
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 77:
+GT centroids: 11
+Pred centroids: 0
+Image error: 11.0000
+False negatives: 11
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 78:
+GT centroids: 13
+Pred centroids: 0
+Image error: 13.0000
+False negatives: 13
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 79:
+GT centroids: 22
+Pred centroids: 0
+Image error: 22.0000
+False negatives: 22
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 80:
+GT centroids: 7
+Pred centroids: 0
+Image error: 7.0000
+False negatives: 7
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 81:
+GT centroids: 7
+Pred centroids: 0
+Image error: 7.0000
+False negatives: 7
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 82:
+GT centroids: 11
+Pred centroids: 0
+Image error: 11.0000
+False negatives: 11
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 83:
+GT centroids: 17
+Pred centroids: 0
+Image error: 17.0000
+False negatives: 17
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 84:
+GT centroids: 6
+Pred centroids: 0
+Image error: 6.0000
+False negatives: 6
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 85:
+GT centroids: 28
+Pred centroids: 0
+Image error: 28.0000
+False negatives: 28
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 86:
+GT centroids: 41
+Pred centroids: 0
+Image error: 41.0000
+False negatives: 41
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 87:
+GT centroids: 12
+Pred centroids: 0
+Image error: 12.0000
+False negatives: 12
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 88:
+GT centroids: 85
+Pred centroids: 0
+Image error: 85.0000
+False negatives: 85
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 89:
+GT centroids: 49
+Pred centroids: 0
+Image error: 49.0000
+False negatives: 49
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 90:
+GT centroids: 20
+Pred centroids: 0
+Image error: 20.0000
+False negatives: 20
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 91:
+GT centroids: 10
+Pred centroids: 0
+Image error: 10.0000
+False negatives: 10
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 92:
+GT centroids: 18
+Pred centroids: 0
+Image error: 18.0000
+False negatives: 18
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 93:
+GT centroids: 6
+Pred centroids: 0
+Image error: 6.0000
+False negatives: 6
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 94:
+GT centroids: 23
+Pred centroids: 0
+Image error: 23.0000
+False negatives: 23
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 95:
+GT centroids: 20
+Pred centroids: 0
+Image error: 20.0000
+False negatives: 20
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 96:
+GT centroids: 17
+Pred centroids: 0
+Image error: 17.0000
+False negatives: 17
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 97:
+GT centroids: 21
+Pred centroids: 0
+Image error: 21.0000
+False negatives: 21
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 98:
+GT centroids: 14
+Pred centroids: 0
+Image error: 14.0000
+False negatives: 14
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 99:
+GT centroids: 11
+Pred centroids: 0
+Image error: 11.0000
+False negatives: 11
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 100:
+GT centroids: 13
+Pred centroids: 0
+Image error: 13.0000
+False negatives: 13
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 101:
+GT centroids: 9
+Pred centroids: 0
+Image error: 9.0000
+False negatives: 9
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 102:
+GT centroids: 8
+Pred centroids: 0
+Image error: 8.0000
+False negatives: 8
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 103:
+GT centroids: 15
+Pred centroids: 0
+Image error: 15.0000
+False negatives: 15
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 104:
+GT centroids: 12
+Pred centroids: 0
+Image error: 12.0000
+False negatives: 12
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 105:
+GT centroids: 27
+Pred centroids: 0
+Image error: 27.0000
+False negatives: 27
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 106:
+GT centroids: 11
+Pred centroids: 0
+Image error: 11.0000
+False negatives: 11
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 107:
+GT centroids: 24
+Pred centroids: 0
+Image error: 24.0000
+False negatives: 24
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 108:
+GT centroids: 43
+Pred centroids: 0
+Image error: 43.0000
+False negatives: 43
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 109:
+GT centroids: 14
+Pred centroids: 0
+Image error: 14.0000
+False negatives: 14
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 110:
+GT centroids: 8
+Pred centroids: 0
+Image error: 8.0000
+False negatives: 8
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 111:
+GT centroids: 9
+Pred centroids: 0
+Image error: 9.0000
+False negatives: 9
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 112:
+GT centroids: 17
+Pred centroids: 0
+Image error: 17.0000
+False negatives: 17
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 113:
+GT centroids: 45
+Pred centroids: 0
+Image error: 45.0000
+False negatives: 45
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 114:
+GT centroids: 43
+Pred centroids: 0
+Image error: 43.0000
+False negatives: 43
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 115:
+GT centroids: 15
+Pred centroids: 0
+Image error: 15.0000
+False negatives: 15
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 116:
+GT centroids: 52
+Pred centroids: 0
+Image error: 52.0000
+False negatives: 52
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 117:
+GT centroids: 59
+Pred centroids: 0
+Image error: 59.0000
+False negatives: 59
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 118:
+GT centroids: 86
+Pred centroids: 0
+Image error: 86.0000
+False negatives: 86
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 119:
+GT centroids: 16
+Pred centroids: 0
+Image error: 16.0000
+False negatives: 16
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 120:
+GT centroids: 35
+Pred centroids: 0
+Image error: 35.0000
+False negatives: 35
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 121:
+GT centroids: 2
+Pred centroids: 0
+Image error: 2.0000
+False negatives: 2
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 122:
+GT centroids: 8
+Pred centroids: 0
+Image error: 8.0000
+False negatives: 8
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 123:
+GT centroids: 18
+Pred centroids: 0
+Image error: 18.0000
+False negatives: 18
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 124:
+GT centroids: 11
+Pred centroids: 0
+Image error: 11.0000
+False negatives: 11
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 125:
+GT centroids: 5
+Pred centroids: 0
+Image error: 5.0000
+False negatives: 5
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 126:
+GT centroids: 21
+Pred centroids: 0
+Image error: 21.0000
+False negatives: 21
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 127:
+GT centroids: 17
+Pred centroids: 0
+Image error: 17.0000
+False negatives: 17
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 128:
+GT centroids: 39
+Pred centroids: 0
+Image error: 39.0000
+False negatives: 39
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 129:
+GT centroids: 15
+Pred centroids: 0
+Image error: 15.0000
+False negatives: 15
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 130:
+GT centroids: 23
+Pred centroids: 0
+Image error: 23.0000
+False negatives: 23
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 131:
+GT centroids: 7
+Pred centroids: 0
+Image error: 7.0000
+False negatives: 7
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 132:
+GT centroids: 20
+Pred centroids: 0
+Image error: 20.0000
+False negatives: 20
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 133:
+GT centroids: 23
+Pred centroids: 0
+Image error: 23.0000
+False negatives: 23
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 134:
+GT centroids: 13
+Pred centroids: 0
+Image error: 13.0000
+False negatives: 13
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 135:
+GT centroids: 17
+Pred centroids: 0
+Image error: 17.0000
+False negatives: 17
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 136:
+GT centroids: 8
+Pred centroids: 0
+Image error: 8.0000
+False negatives: 8
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 137:
+GT centroids: 2
+Pred centroids: 0
+Image error: 2.0000
+False negatives: 2
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 138:
+GT centroids: 39
+Pred centroids: 0
+Image error: 39.0000
+False negatives: 39
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 139:
+GT centroids: 107
+Pred centroids: 0
+Image error: 107.0000
+False negatives: 107
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 140:
+GT centroids: 6
+Pred centroids: 0
+Image error: 6.0000
+False negatives: 6
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 141:
+GT centroids: 4
+Pred centroids: 0
+Image error: 4.0000
+False negatives: 4
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 142:
+GT centroids: 20
+Pred centroids: 0
+Image error: 20.0000
+False negatives: 20
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 143:
+GT centroids: 24
+Pred centroids: 0
+Image error: 24.0000
+False negatives: 24
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 144:
+GT centroids: 7
+Pred centroids: 0
+Image error: 7.0000
+False negatives: 7
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 145:
+GT centroids: 8
+Pred centroids: 0
+Image error: 8.0000
+False negatives: 8
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 146:
+GT centroids: 11
+Pred centroids: 0
+Image error: 11.0000
+False negatives: 11
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 147:
+GT centroids: 4
+Pred centroids: 0
+Image error: 4.0000
+False negatives: 4
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 148:
+GT centroids: 30
+Pred centroids: 0
+Image error: 30.0000
+False negatives: 30
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 149:
+GT centroids: 35
+Pred centroids: 0
+Image error: 35.0000
+False negatives: 35
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 150:
+GT centroids: 16
+Pred centroids: 0
+Image error: 16.0000
+False negatives: 16
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 151:
+GT centroids: 3
+Pred centroids: 0
+Image error: 3.0000
+False negatives: 3
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 152:
+GT centroids: 10
+Pred centroids: 0
+Image error: 10.0000
+False negatives: 10
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 153:
+GT centroids: 23
+Pred centroids: 0
+Image error: 23.0000
+False negatives: 23
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 154:
+GT centroids: 6
+Pred centroids: 0
+Image error: 6.0000
+False negatives: 6
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 155:
+GT centroids: 8
+Pred centroids: 0
+Image error: 8.0000
+False negatives: 8
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 156:
+GT centroids: 15
+Pred centroids: 0
+Image error: 15.0000
+False negatives: 15
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 157:
+GT centroids: 19
+Pred centroids: 0
+Image error: 19.0000
+False negatives: 19
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 158:
+GT centroids: 4
+Pred centroids: 0
+Image error: 4.0000
+False negatives: 4
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 159:
+GT centroids: 31
+Pred centroids: 0
+Image error: 31.0000
+False negatives: 31
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 160:
+GT centroids: 28
+Pred centroids: 0
+Image error: 28.0000
+False negatives: 28
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 161:
+GT centroids: 17
+Pred centroids: 0
+Image error: 17.0000
+False negatives: 17
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 162:
+GT centroids: 31
+Pred centroids: 0
+Image error: 31.0000
+False negatives: 31
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 163:
+GT centroids: 11
+Pred centroids: 0
+Image error: 11.0000
+False negatives: 11
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 164:
+GT centroids: 37
+Pred centroids: 0
+Image error: 37.0000
+False negatives: 37
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 165:
+GT centroids: 10
+Pred centroids: 0
+Image error: 10.0000
+False negatives: 10
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 166:
+GT centroids: 6
+Pred centroids: 0
+Image error: 6.0000
+False negatives: 6
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 167:
+GT centroids: 23
+Pred centroids: 0
+Image error: 23.0000
+False negatives: 23
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 168:
+GT centroids: 47
+Pred centroids: 0
+Image error: 47.0000
+False negatives: 47
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 169:
+GT centroids: 8
+Pred centroids: 7
+Image error: 13.0000
+False negatives: 8
+False positives: 7
+Precision: 0.5333333333333333
+Recall: 0.5
+F-score: 0.5161290322580645
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 7
+
+Image 170:
+GT centroids: 13
+Pred centroids: 0
+Image error: 13.0000
+False negatives: 13
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 171:
+GT centroids: 9
+Pred centroids: 0
+Image error: 9.0000
+False negatives: 9
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 172:
+GT centroids: 20
+Pred centroids: 0
+Image error: 20.0000
+False negatives: 20
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 173:
+GT centroids: 29
+Pred centroids: 0
+Image error: 29.0000
+False negatives: 29
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 174:
+GT centroids: 1
+Pred centroids: 0
+Image error: 1.0000
+False negatives: 1
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 175:
+GT centroids: 9
+Pred centroids: 0
+Image error: 9.0000
+False negatives: 9
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 176:
+GT centroids: 11
+Pred centroids: 0
+Image error: 11.0000
+False negatives: 11
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 177:
+GT centroids: 5
+Pred centroids: 0
+Image error: 5.0000
+False negatives: 5
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 178:
+GT centroids: 7
+Pred centroids: 0
+Image error: 7.0000
+False negatives: 7
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 179:
+GT centroids: 12
+Pred centroids: 0
+Image error: 12.0000
+False negatives: 12
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 180:
+GT centroids: 19
+Pred centroids: 0
+Image error: 19.0000
+False negatives: 19
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 181:
+GT centroids: 27
+Pred centroids: 0
+Image error: 27.0000
+False negatives: 27
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 182:
+GT centroids: 10
+Pred centroids: 0
+Image error: 10.0000
+False negatives: 10
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 183:
+GT centroids: 6
+Pred centroids: 0
+Image error: 6.0000
+False negatives: 6
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 184:
+GT centroids: 34
+Pred centroids: 0
+Image error: 34.0000
+False negatives: 34
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 185:
+GT centroids: 33
+Pred centroids: 0
+Image error: 33.0000
+False negatives: 33
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 186:
+GT centroids: 9
+Pred centroids: 1
+Image error: 10.0000
+False negatives: 9
+False positives: 1
+Precision: 0.9
+Recall: 0.5
+F-score: 0.6428571428571429
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 1
+
+Image 187:
+GT centroids: 9
+Pred centroids: 0
+Image error: 9.0000
+False negatives: 9
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 188:
+GT centroids: 7
+Pred centroids: 0
+Image error: 7.0000
+False negatives: 7
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 189:
+GT centroids: 56
+Pred centroids: 0
+Image error: 56.0000
+False negatives: 56
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 190:
+GT centroids: 32
+Pred centroids: 0
+Image error: 32.0000
+False negatives: 32
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 191:
+GT centroids: 5
+Pred centroids: 0
+Image error: 5.0000
+False negatives: 5
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 192:
+GT centroids: 7
+Pred centroids: 0
+Image error: 7.0000
+False negatives: 7
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 193:
+GT centroids: 10
+Pred centroids: 0
+Image error: 10.0000
+False negatives: 10
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 194:
+GT centroids: 15
+Pred centroids: 0
+Image error: 15.0000
+False negatives: 15
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 195:
+GT centroids: 19
+Pred centroids: 0
+Image error: 19.0000
+False negatives: 19
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 196:
+GT centroids: 11
+Pred centroids: 0
+Image error: 11.0000
+False negatives: 11
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 197:
+GT centroids: 22
+Pred centroids: 0
+Image error: 22.0000
+False negatives: 22
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 198:
+GT centroids: 6
+Pred centroids: 0
+Image error: 6.0000
+False negatives: 6
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 199:
+GT centroids: 88
+Pred centroids: 0
+Image error: 88.0000
+False negatives: 88
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 200:
+GT centroids: 10
+Pred centroids: 6
+Image error: 15.0000
+False negatives: 10
+False positives: 6
+Precision: 0.625
+Recall: 0.5
+F-score: 0.5555555555555556
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 6
+
+Image 201:
+GT centroids: 12
+Pred centroids: 0
+Image error: 12.0000
+False negatives: 12
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 202:
+GT centroids: 23
+Pred centroids: 0
+Image error: 23.0000
+False negatives: 23
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 203:
+GT centroids: 6
+Pred centroids: 0
+Image error: 6.0000
+False negatives: 6
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 204:
+GT centroids: 48
+Pred centroids: 0
+Image error: 48.0000
+False negatives: 48
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 205:
+GT centroids: 17
+Pred centroids: 0
+Image error: 17.0000
+False negatives: 17
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 206:
+GT centroids: 7
+Pred centroids: 0
+Image error: 7.0000
+False negatives: 7
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 207:
+GT centroids: 53
+Pred centroids: 0
+Image error: 53.0000
+False negatives: 53
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 208:
+GT centroids: 11
+Pred centroids: 0
+Image error: 11.0000
+False negatives: 11
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 209:
+GT centroids: 13
+Pred centroids: 0
+Image error: 13.0000
+False negatives: 13
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 210:
+GT centroids: 21
+Pred centroids: 0
+Image error: 21.0000
+False negatives: 21
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 211:
+GT centroids: 41
+Pred centroids: 0
+Image error: 41.0000
+False negatives: 41
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 212:
+GT centroids: 19
+Pred centroids: 0
+Image error: 19.0000
+False negatives: 19
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 213:
+GT centroids: 20
+Pred centroids: 0
+Image error: 20.0000
+False negatives: 20
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 214:
+GT centroids: 49
+Pred centroids: 0
+Image error: 49.0000
+False negatives: 49
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 215:
+GT centroids: 32
+Pred centroids: 0
+Image error: 32.0000
+False negatives: 32
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 216:
+GT centroids: 22
+Pred centroids: 0
+Image error: 22.0000
+False negatives: 22
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 217:
+GT centroids: 96
+Pred centroids: 0
+Image error: 96.0000
+False negatives: 96
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 218:
+GT centroids: 33
+Pred centroids: 0
+Image error: 33.0000
+False negatives: 33
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 219:
+GT centroids: 26
+Pred centroids: 0
+Image error: 26.0000
+False negatives: 26
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 220:
+GT centroids: 13
+Pred centroids: 0
+Image error: 13.0000
+False negatives: 13
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 221:
+GT centroids: 51
+Pred centroids: 0
+Image error: 51.0000
+False negatives: 51
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 222:
+GT centroids: 48
+Pred centroids: 0
+Image error: 48.0000
+False negatives: 48
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 223:
+GT centroids: 13
+Pred centroids: 0
+Image error: 13.0000
+False negatives: 13
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 224:
+GT centroids: 10
+Pred centroids: 0
+Image error: 10.0000
+False negatives: 10
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 225:
+GT centroids: 46
+Pred centroids: 0
+Image error: 46.0000
+False negatives: 46
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 226:
+GT centroids: 5
+Pred centroids: 0
+Image error: 5.0000
+False negatives: 5
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 227:
+GT centroids: 65
+Pred centroids: 0
+Image error: 65.0000
+False negatives: 65
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 228:
+GT centroids: 5
+Pred centroids: 0
+Image error: 5.0000
+False negatives: 5
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 229:
+GT centroids: 49
+Pred centroids: 0
+Image error: 49.0000
+False negatives: 49
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 230:
+GT centroids: 14
+Pred centroids: 0
+Image error: 14.0000
+False negatives: 14
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 231:
+GT centroids: 108
+Pred centroids: 0
+Image error: 108.0000
+False negatives: 108
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 232:
+GT centroids: 20
+Pred centroids: 0
+Image error: 20.0000
+False negatives: 20
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 233:
+GT centroids: 29
+Pred centroids: 0
+Image error: 29.0000
+False negatives: 29
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 234:
+GT centroids: 46
+Pred centroids: 0
+Image error: 46.0000
+False negatives: 46
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 235:
+GT centroids: 14
+Pred centroids: 0
+Image error: 14.0000
+False negatives: 14
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 236:
+GT centroids: 63
+Pred centroids: 0
+Image error: 63.0000
+False negatives: 63
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 237:
+GT centroids: 24
+Pred centroids: 0
+Image error: 24.0000
+False negatives: 24
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 238:
+GT centroids: 4
+Pred centroids: 0
+Image error: 4.0000
+False negatives: 4
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 239:
+GT centroids: 20
+Pred centroids: 0
+Image error: 20.0000
+False negatives: 20
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 240:
+GT centroids: 38
+Pred centroids: 0
+Image error: 38.0000
+False negatives: 38
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 241:
+GT centroids: 49
+Pred centroids: 0
+Image error: 49.0000
+False negatives: 49
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 242:
+GT centroids: 8
+Pred centroids: 0
+Image error: 8.0000
+False negatives: 8
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 243:
+GT centroids: 14
+Pred centroids: 0
+Image error: 14.0000
+False negatives: 14
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 244:
+GT centroids: 9
+Pred centroids: 0
+Image error: 9.0000
+False negatives: 9
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 245:
+GT centroids: 16
+Pred centroids: 0
+Image error: 16.0000
+False negatives: 16
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 246:
+GT centroids: 5
+Pred centroids: 0
+Image error: 5.0000
+False negatives: 5
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 247:
+GT centroids: 10
+Pred centroids: 0
+Image error: 10.0000
+False negatives: 10
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 248:
+GT centroids: 9
+Pred centroids: 0
+Image error: 9.0000
+False negatives: 9
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 249:
+GT centroids: 38
+Pred centroids: 0
+Image error: 38.0000
+False negatives: 38
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 250:
+GT centroids: 10
+Pred centroids: 0
+Image error: 10.0000
+False negatives: 10
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 251:
+GT centroids: 12
+Pred centroids: 0
+Image error: 12.0000
+False negatives: 12
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 252:
+GT centroids: 16
+Pred centroids: 0
+Image error: 16.0000
+False negatives: 16
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 253:
+GT centroids: 5
+Pred centroids: 0
+Image error: 5.0000
+False negatives: 5
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 254:
+GT centroids: 4
+Pred centroids: 0
+Image error: 4.0000
+False negatives: 4
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 255:
+GT centroids: 10
+Pred centroids: 0
+Image error: 10.0000
+False negatives: 10
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 256:
+GT centroids: 14
+Pred centroids: 0
+Image error: 14.0000
+False negatives: 14
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 257:
+GT centroids: 10
+Pred centroids: 0
+Image error: 10.0000
+False negatives: 10
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 258:
+GT centroids: 54
+Pred centroids: 0
+Image error: 54.0000
+False negatives: 54
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 259:
+GT centroids: 8
+Pred centroids: 0
+Image error: 8.0000
+False negatives: 8
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 260:
+GT centroids: 7
+Pred centroids: 0
+Image error: 7.0000
+False negatives: 7
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 261:
+GT centroids: 25
+Pred centroids: 0
+Image error: 25.0000
+False negatives: 25
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 262:
+GT centroids: 40
+Pred centroids: 0
+Image error: 40.0000
+False negatives: 40
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 263:
+GT centroids: 10
+Pred centroids: 5
+Image error: 15.0000
+False negatives: 10
+False positives: 5
+Precision: 0.6666666666666666
+Recall: 0.5
+F-score: 0.5714285714285714
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 5
+
+Image 264:
+GT centroids: 7
+Pred centroids: 0
+Image error: 7.0000
+False negatives: 7
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 265:
+GT centroids: 6
+Pred centroids: 0
+Image error: 6.0000
+False negatives: 6
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 266:
+GT centroids: 39
+Pred centroids: 0
+Image error: 39.0000
+False negatives: 39
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 267:
+GT centroids: 21
+Pred centroids: 0
+Image error: 21.0000
+False negatives: 21
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 268:
+GT centroids: 10
+Pred centroids: 0
+Image error: 10.0000
+False negatives: 10
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 269:
+GT centroids: 19
+Pred centroids: 0
+Image error: 19.0000
+False negatives: 19
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 270:
+GT centroids: 25
+Pred centroids: 0
+Image error: 25.0000
+False negatives: 25
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 271:
+GT centroids: 11
+Pred centroids: 0
+Image error: 11.0000
+False negatives: 11
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 272:
+GT centroids: 92
+Pred centroids: 0
+Image error: 92.0000
+False negatives: 92
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 273:
+GT centroids: 11
+Pred centroids: 0
+Image error: 11.0000
+False negatives: 11
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 274:
+GT centroids: 5
+Pred centroids: 0
+Image error: 5.0000
+False negatives: 5
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 275:
+GT centroids: 4
+Pred centroids: 0
+Image error: 4.0000
+False negatives: 4
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 276:
+GT centroids: 13
+Pred centroids: 0
+Image error: 13.0000
+False negatives: 13
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 277:
+GT centroids: 27
+Pred centroids: 0
+Image error: 27.0000
+False negatives: 27
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 278:
+GT centroids: 25
+Pred centroids: 0
+Image error: 25.0000
+False negatives: 25
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 279:
+GT centroids: 9
+Pred centroids: 0
+Image error: 9.0000
+False negatives: 9
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 280:
+GT centroids: 51
+Pred centroids: 0
+Image error: 51.0000
+False negatives: 51
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 281:
+GT centroids: 16
+Pred centroids: 0
+Image error: 16.0000
+False negatives: 16
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 282:
+GT centroids: 22
+Pred centroids: 0
+Image error: 22.0000
+False negatives: 22
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 283:
+GT centroids: 11
+Pred centroids: 0
+Image error: 11.0000
+False negatives: 11
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 284:
+GT centroids: 108
+Pred centroids: 0
+Image error: 108.0000
+False negatives: 108
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 285:
+GT centroids: 5
+Pred centroids: 0
+Image error: 5.0000
+False negatives: 5
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 286:
+GT centroids: 12
+Pred centroids: 0
+Image error: 12.0000
+False negatives: 12
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 287:
+GT centroids: 6
+Pred centroids: 0
+Image error: 6.0000
+False negatives: 6
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 288:
+GT centroids: 7
+Pred centroids: 0
+Image error: 7.0000
+False negatives: 7
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 289:
+GT centroids: 24
+Pred centroids: 0
+Image error: 24.0000
+False negatives: 24
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 290:
+GT centroids: 30
+Pred centroids: 0
+Image error: 30.0000
+False negatives: 30
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 291:
+GT centroids: 9
+Pred centroids: 0
+Image error: 9.0000
+False negatives: 9
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 292:
+GT centroids: 22
+Pred centroids: 0
+Image error: 22.0000
+False negatives: 22
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 293:
+GT centroids: 67
+Pred centroids: 0
+Image error: 67.0000
+False negatives: 67
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 294:
+GT centroids: 18
+Pred centroids: 0
+Image error: 18.0000
+False negatives: 18
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 295:
+GT centroids: 33
+Pred centroids: 0
+Image error: 33.0000
+False negatives: 33
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 296:
+GT centroids: 15
+Pred centroids: 0
+Image error: 15.0000
+False negatives: 15
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 297:
+GT centroids: 10
+Pred centroids: 0
+Image error: 10.0000
+False negatives: 10
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 298:
+GT centroids: 10
+Pred centroids: 0
+Image error: 10.0000
+False negatives: 10
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 299:
+GT centroids: 7
+Pred centroids: 0
+Image error: 7.0000
+False negatives: 7
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 300:
+GT centroids: 27
+Pred centroids: 0
+Image error: 27.0000
+False negatives: 27
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 301:
+GT centroids: 8
+Pred centroids: 0
+Image error: 8.0000
+False negatives: 8
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 302:
+GT centroids: 11
+Pred centroids: 0
+Image error: 11.0000
+False negatives: 11
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 303:
+GT centroids: 31
+Pred centroids: 0
+Image error: 31.0000
+False negatives: 31
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 304:
+GT centroids: 7
+Pred centroids: 0
+Image error: 7.0000
+False negatives: 7
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 305:
+GT centroids: 15
+Pred centroids: 0
+Image error: 15.0000
+False negatives: 15
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 306:
+GT centroids: 11
+Pred centroids: 0
+Image error: 11.0000
+False negatives: 11
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 307:
+GT centroids: 9
+Pred centroids: 0
+Image error: 9.0000
+False negatives: 9
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 308:
+GT centroids: 42
+Pred centroids: 0
+Image error: 42.0000
+False negatives: 42
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 309:
+GT centroids: 18
+Pred centroids: 0
+Image error: 18.0000
+False negatives: 18
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 310:
+GT centroids: 13
+Pred centroids: 0
+Image error: 13.0000
+False negatives: 13
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 311:
+GT centroids: 6
+Pred centroids: 0
+Image error: 6.0000
+False negatives: 6
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 312:
+GT centroids: 29
+Pred centroids: 0
+Image error: 29.0000
+False negatives: 29
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 313:
+GT centroids: 10
+Pred centroids: 0
+Image error: 10.0000
+False negatives: 10
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 314:
+GT centroids: 28
+Pred centroids: 0
+Image error: 28.0000
+False negatives: 28
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 315:
+GT centroids: 22
+Pred centroids: 0
+Image error: 22.0000
+False negatives: 22
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 316:
+GT centroids: 1
+Pred centroids: 0
+Image error: 1.0000
+False negatives: 1
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 317:
+GT centroids: 35
+Pred centroids: 0
+Image error: 35.0000
+False negatives: 35
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 318:
+GT centroids: 14
+Pred centroids: 0
+Image error: 14.0000
+False negatives: 14
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 319:
+GT centroids: 6
+Pred centroids: 0
+Image error: 6.0000
+False negatives: 6
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 320:
+GT centroids: 50
+Pred centroids: 0
+Image error: 50.0000
+False negatives: 50
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 321:
+GT centroids: 18
+Pred centroids: 0
+Image error: 18.0000
+False negatives: 18
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 322:
+GT centroids: 52
+Pred centroids: 0
+Image error: 52.0000
+False negatives: 52
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 323:
+GT centroids: 9
+Pred centroids: 0
+Image error: 9.0000
+False negatives: 9
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 324:
+GT centroids: 32
+Pred centroids: 0
+Image error: 32.0000
+False negatives: 32
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 325:
+GT centroids: 2
+Pred centroids: 0
+Image error: 2.0000
+False negatives: 2
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 326:
+GT centroids: 7
+Pred centroids: 0
+Image error: 7.0000
+False negatives: 7
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 327:
+GT centroids: 19
+Pred centroids: 0
+Image error: 19.0000
+False negatives: 19
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 328:
+GT centroids: 5
+Pred centroids: 0
+Image error: 5.0000
+False negatives: 5
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 329:
+GT centroids: 16
+Pred centroids: 0
+Image error: 16.0000
+False negatives: 16
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 330:
+GT centroids: 9
+Pred centroids: 0
+Image error: 9.0000
+False negatives: 9
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 331:
+GT centroids: 96
+Pred centroids: 0
+Image error: 96.0000
+False negatives: 96
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 332:
+GT centroids: 48
+Pred centroids: 0
+Image error: 48.0000
+False negatives: 48
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 333:
+GT centroids: 25
+Pred centroids: 18
+Image error: 42.0000
+False negatives: 25
+False positives: 18
+Precision: 0.5813953488372093
+Recall: 0.5
+F-score: 0.5376344086021505
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 18
+
+Image 334:
+GT centroids: 10
+Pred centroids: 0
+Image error: 10.0000
+False negatives: 10
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 335:
+GT centroids: 10
+Pred centroids: 0
+Image error: 10.0000
+False negatives: 10
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 336:
+GT centroids: 56
+Pred centroids: 0
+Image error: 56.0000
+False negatives: 56
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 337:
+GT centroids: 120
+Pred centroids: 0
+Image error: 120.0000
+False negatives: 120
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 338:
+GT centroids: 81
+Pred centroids: 0
+Image error: 81.0000
+False negatives: 81
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 339:
+GT centroids: 19
+Pred centroids: 0
+Image error: 19.0000
+False negatives: 19
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 340:
+GT centroids: 16
+Pred centroids: 0
+Image error: 16.0000
+False negatives: 16
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 341:
+GT centroids: 16
+Pred centroids: 0
+Image error: 16.0000
+False negatives: 16
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 342:
+GT centroids: 33
+Pred centroids: 0
+Image error: 33.0000
+False negatives: 33
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 343:
+GT centroids: 100
+Pred centroids: 0
+Image error: 100.0000
+False negatives: 100
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 344:
+GT centroids: 122
+Pred centroids: 0
+Image error: 122.0000
+False negatives: 122
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 345:
+GT centroids: 86
+Pred centroids: 0
+Image error: 86.0000
+False negatives: 86
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 346:
+GT centroids: 17
+Pred centroids: 0
+Image error: 17.0000
+False negatives: 17
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 347:
+GT centroids: 91
+Pred centroids: 0
+Image error: 91.0000
+False negatives: 91
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 348:
+GT centroids: 12
+Pred centroids: 0
+Image error: 12.0000
+False negatives: 12
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 349:
+GT centroids: 8
+Pred centroids: 0
+Image error: 8.0000
+False negatives: 8
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 350:
+GT centroids: 16
+Pred centroids: 0
+Image error: 16.0000
+False negatives: 16
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 351:
+GT centroids: 19
+Pred centroids: 0
+Image error: 19.0000
+False negatives: 19
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 352:
+GT centroids: 11
+Pred centroids: 0
+Image error: 11.0000
+False negatives: 11
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 353:
+GT centroids: 10
+Pred centroids: 0
+Image error: 10.0000
+False negatives: 10
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 354:
+GT centroids: 12
+Pred centroids: 0
+Image error: 12.0000
+False negatives: 12
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 355:
+GT centroids: 33
+Pred centroids: 0
+Image error: 33.0000
+False negatives: 33
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 356:
+GT centroids: 11
+Pred centroids: 0
+Image error: 11.0000
+False negatives: 11
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 357:
+GT centroids: 5
+Pred centroids: 0
+Image error: 5.0000
+False negatives: 5
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 358:
+GT centroids: 76
+Pred centroids: 0
+Image error: 76.0000
+False negatives: 76
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 359:
+GT centroids: 8
+Pred centroids: 0
+Image error: 8.0000
+False negatives: 8
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 360:
+GT centroids: 25
+Pred centroids: 0
+Image error: 25.0000
+False negatives: 25
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 361:
+GT centroids: 7
+Pred centroids: 0
+Image error: 7.0000
+False negatives: 7
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 362:
+GT centroids: 59
+Pred centroids: 0
+Image error: 59.0000
+False negatives: 59
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 363:
+GT centroids: 10
+Pred centroids: 0
+Image error: 10.0000
+False negatives: 10
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 364:
+GT centroids: 10
+Pred centroids: 0
+Image error: 10.0000
+False negatives: 10
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 365:
+GT centroids: 17
+Pred centroids: 0
+Image error: 17.0000
+False negatives: 17
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 366:
+GT centroids: 79
+Pred centroids: 0
+Image error: 79.0000
+False negatives: 79
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 367:
+GT centroids: 9
+Pred centroids: 0
+Image error: 9.0000
+False negatives: 9
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 368:
+GT centroids: 17
+Pred centroids: 0
+Image error: 17.0000
+False negatives: 17
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 369:
+GT centroids: 10
+Pred centroids: 0
+Image error: 10.0000
+False negatives: 10
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 370:
+GT centroids: 95
+Pred centroids: 0
+Image error: 95.0000
+False negatives: 95
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 371:
+GT centroids: 28
+Pred centroids: 0
+Image error: 28.0000
+False negatives: 28
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 372:
+GT centroids: 4
+Pred centroids: 0
+Image error: 4.0000
+False negatives: 4
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 373:
+GT centroids: 10
+Pred centroids: 0
+Image error: 10.0000
+False negatives: 10
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 374:
+GT centroids: 65
+Pred centroids: 0
+Image error: 65.0000
+False negatives: 65
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 375:
+GT centroids: 11
+Pred centroids: 0
+Image error: 11.0000
+False negatives: 11
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 376:
+GT centroids: 37
+Pred centroids: 0
+Image error: 37.0000
+False negatives: 37
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 377:
+GT centroids: 6
+Pred centroids: 0
+Image error: 6.0000
+False negatives: 6
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 378:
+GT centroids: 13
+Pred centroids: 0
+Image error: 13.0000
+False negatives: 13
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 379:
+GT centroids: 47
+Pred centroids: 0
+Image error: 47.0000
+False negatives: 47
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 380:
+GT centroids: 8
+Pred centroids: 0
+Image error: 8.0000
+False negatives: 8
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 381:
+GT centroids: 10
+Pred centroids: 0
+Image error: 10.0000
+False negatives: 10
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 382:
+GT centroids: 18
+Pred centroids: 0
+Image error: 18.0000
+False negatives: 18
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 383:
+GT centroids: 7
+Pred centroids: 0
+Image error: 7.0000
+False negatives: 7
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 384:
+GT centroids: 14
+Pred centroids: 0
+Image error: 14.0000
+False negatives: 14
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 385:
+GT centroids: 6
+Pred centroids: 0
+Image error: 6.0000
+False negatives: 6
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 386:
+GT centroids: 14
+Pred centroids: 0
+Image error: 14.0000
+False negatives: 14
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 387:
+GT centroids: 10
+Pred centroids: 0
+Image error: 10.0000
+False negatives: 10
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 388:
+GT centroids: 7
+Pred centroids: 2
+Image error: 9.0000
+False negatives: 7
+False positives: 2
+Precision: 0.7777777777777778
+Recall: 0.5
+F-score: 0.6086956521739131
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 2
+
+Image 389:
+GT centroids: 52
+Pred centroids: 0
+Image error: 52.0000
+False negatives: 52
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 390:
+GT centroids: 11
+Pred centroids: 0
+Image error: 11.0000
+False negatives: 11
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 391:
+GT centroids: 4
+Pred centroids: 0
+Image error: 4.0000
+False negatives: 4
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 392:
+GT centroids: 15
+Pred centroids: 0
+Image error: 15.0000
+False negatives: 15
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 393:
+GT centroids: 32
+Pred centroids: 0
+Image error: 32.0000
+False negatives: 32
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 394:
+GT centroids: 4
+Pred centroids: 0
+Image error: 4.0000
+False negatives: 4
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 395:
+GT centroids: 62
+Pred centroids: 0
+Image error: 62.0000
+False negatives: 62
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 396:
+GT centroids: 4
+Pred centroids: 0
+Image error: 4.0000
+False negatives: 4
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 397:
+GT centroids: 16
+Pred centroids: 0
+Image error: 16.0000
+False negatives: 16
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 398:
+GT centroids: 36
+Pred centroids: 0
+Image error: 36.0000
+False negatives: 36
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 399:
+GT centroids: 17
+Pred centroids: 0
+Image error: 17.0000
+False negatives: 17
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 400:
+GT centroids: 16
+Pred centroids: 0
+Image error: 16.0000
+False negatives: 16
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 401:
+GT centroids: 10
+Pred centroids: 0
+Image error: 10.0000
+False negatives: 10
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 402:
+GT centroids: 12
+Pred centroids: 0
+Image error: 12.0000
+False negatives: 12
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 403:
+GT centroids: 73
+Pred centroids: 0
+Image error: 73.0000
+False negatives: 73
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 404:
+GT centroids: 46
+Pred centroids: 0
+Image error: 46.0000
+False negatives: 46
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 405:
+GT centroids: 6
+Pred centroids: 0
+Image error: 6.0000
+False negatives: 6
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 406:
+GT centroids: 55
+Pred centroids: 0
+Image error: 55.0000
+False negatives: 55
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 407:
+GT centroids: 6
+Pred centroids: 0
+Image error: 6.0000
+False negatives: 6
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 408:
+GT centroids: 12
+Pred centroids: 0
+Image error: 12.0000
+False negatives: 12
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 409:
+GT centroids: 1
+Pred centroids: 0
+Image error: 1.0000
+False negatives: 1
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 410:
+GT centroids: 37
+Pred centroids: 0
+Image error: 37.0000
+False negatives: 37
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 411:
+GT centroids: 3
+Pred centroids: 0
+Image error: 3.0000
+False negatives: 3
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 412:
+GT centroids: 7
+Pred centroids: 0
+Image error: 7.0000
+False negatives: 7
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 413:
+GT centroids: 38
+Pred centroids: 0
+Image error: 38.0000
+False negatives: 38
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 414:
+GT centroids: 9
+Pred centroids: 0
+Image error: 9.0000
+False negatives: 9
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 415:
+GT centroids: 8
+Pred centroids: 0
+Image error: 8.0000
+False negatives: 8
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 416:
+GT centroids: 10
+Pred centroids: 0
+Image error: 10.0000
+False negatives: 10
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 417:
+GT centroids: 4
+Pred centroids: 0
+Image error: 4.0000
+False negatives: 4
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 418:
+GT centroids: 7
+Pred centroids: 0
+Image error: 7.0000
+False negatives: 7
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 419:
+GT centroids: 13
+Pred centroids: 0
+Image error: 13.0000
+False negatives: 13
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 420:
+GT centroids: 9
+Pred centroids: 0
+Image error: 9.0000
+False negatives: 9
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 421:
+GT centroids: 8
+Pred centroids: 0
+Image error: 8.0000
+False negatives: 8
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 422:
+GT centroids: 7
+Pred centroids: 0
+Image error: 7.0000
+False negatives: 7
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 423:
+GT centroids: 42
+Pred centroids: 0
+Image error: 42.0000
+False negatives: 42
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 424:
+GT centroids: 9
+Pred centroids: 0
+Image error: 9.0000
+False negatives: 9
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 425:
+GT centroids: 61
+Pred centroids: 0
+Image error: 61.0000
+False negatives: 61
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 426:
+GT centroids: 9
+Pred centroids: 0
+Image error: 9.0000
+False negatives: 9
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 427:
+GT centroids: 4
+Pred centroids: 0
+Image error: 4.0000
+False negatives: 4
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 428:
+GT centroids: 5
+Pred centroids: 0
+Image error: 5.0000
+False negatives: 5
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 429:
+GT centroids: 20
+Pred centroids: 0
+Image error: 20.0000
+False negatives: 20
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 430:
+GT centroids: 12
+Pred centroids: 0
+Image error: 12.0000
+False negatives: 12
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 431:
+GT centroids: 17
+Pred centroids: 0
+Image error: 17.0000
+False negatives: 17
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 432:
+GT centroids: 14
+Pred centroids: 0
+Image error: 14.0000
+False negatives: 14
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 433:
+GT centroids: 30
+Pred centroids: 0
+Image error: 30.0000
+False negatives: 30
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 434:
+GT centroids: 5
+Pred centroids: 0
+Image error: 5.0000
+False negatives: 5
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 435:
+GT centroids: 38
+Pred centroids: 0
+Image error: 38.0000
+False negatives: 38
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 436:
+GT centroids: 16
+Pred centroids: 0
+Image error: 16.0000
+False negatives: 16
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 437:
+GT centroids: 18
+Pred centroids: 0
+Image error: 18.0000
+False negatives: 18
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 438:
+GT centroids: 10
+Pred centroids: 0
+Image error: 10.0000
+False negatives: 10
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 439:
+GT centroids: 8
+Pred centroids: 0
+Image error: 8.0000
+False negatives: 8
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 440:
+GT centroids: 4
+Pred centroids: 0
+Image error: 4.0000
+False negatives: 4
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 441:
+GT centroids: 16
+Pred centroids: 0
+Image error: 16.0000
+False negatives: 16
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 442:
+GT centroids: 6
+Pred centroids: 0
+Image error: 6.0000
+False negatives: 6
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 443:
+GT centroids: 5
+Pred centroids: 0
+Image error: 5.0000
+False negatives: 5
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 444:
+GT centroids: 16
+Pred centroids: 0
+Image error: 16.0000
+False negatives: 16
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 445:
+GT centroids: 13
+Pred centroids: 0
+Image error: 13.0000
+False negatives: 13
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 446:
+GT centroids: 99
+Pred centroids: 0
+Image error: 99.0000
+False negatives: 99
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 447:
+GT centroids: 35
+Pred centroids: 0
+Image error: 35.0000
+False negatives: 35
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 448:
+GT centroids: 9
+Pred centroids: 0
+Image error: 9.0000
+False negatives: 9
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 449:
+GT centroids: 50
+Pred centroids: 0
+Image error: 50.0000
+False negatives: 50
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 450:
+GT centroids: 15
+Pred centroids: 0
+Image error: 15.0000
+False negatives: 15
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 451:
+GT centroids: 12
+Pred centroids: 0
+Image error: 12.0000
+False negatives: 12
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 452:
+GT centroids: 25
+Pred centroids: 0
+Image error: 25.0000
+False negatives: 25
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 453:
+GT centroids: 11
+Pred centroids: 0
+Image error: 11.0000
+False negatives: 11
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 454:
+GT centroids: 25
+Pred centroids: 0
+Image error: 25.0000
+False negatives: 25
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 455:
+GT centroids: 23
+Pred centroids: 0
+Image error: 23.0000
+False negatives: 23
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 456:
+GT centroids: 13
+Pred centroids: 0
+Image error: 13.0000
+False negatives: 13
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 457:
+GT centroids: 13
+Pred centroids: 0
+Image error: 13.0000
+False negatives: 13
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 458:
+GT centroids: 76
+Pred centroids: 0
+Image error: 76.0000
+False negatives: 76
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 459:
+GT centroids: 9
+Pred centroids: 0
+Image error: 9.0000
+False negatives: 9
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 460:
+GT centroids: 36
+Pred centroids: 0
+Image error: 36.0000
+False negatives: 36
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 461:
+GT centroids: 14
+Pred centroids: 0
+Image error: 14.0000
+False negatives: 14
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 462:
+GT centroids: 14
+Pred centroids: 0
+Image error: 14.0000
+False negatives: 14
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 463:
+GT centroids: 45
+Pred centroids: 0
+Image error: 45.0000
+False negatives: 45
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 464:
+GT centroids: 12
+Pred centroids: 0
+Image error: 12.0000
+False negatives: 12
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 465:
+GT centroids: 9
+Pred centroids: 0
+Image error: 9.0000
+False negatives: 9
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 466:
+GT centroids: 44
+Pred centroids: 0
+Image error: 44.0000
+False negatives: 44
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 467:
+GT centroids: 10
+Pred centroids: 0
+Image error: 10.0000
+False negatives: 10
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 468:
+GT centroids: 13
+Pred centroids: 0
+Image error: 13.0000
+False negatives: 13
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 469:
+GT centroids: 66
+Pred centroids: 0
+Image error: 66.0000
+False negatives: 66
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 470:
+GT centroids: 8
+Pred centroids: 0
+Image error: 8.0000
+False negatives: 8
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 471:
+GT centroids: 25
+Pred centroids: 0
+Image error: 25.0000
+False negatives: 25
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 472:
+GT centroids: 12
+Pred centroids: 0
+Image error: 12.0000
+False negatives: 12
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 473:
+GT centroids: 17
+Pred centroids: 0
+Image error: 17.0000
+False negatives: 17
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 474:
+GT centroids: 10
+Pred centroids: 0
+Image error: 10.0000
+False negatives: 10
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 475:
+GT centroids: 11
+Pred centroids: 0
+Image error: 11.0000
+False negatives: 11
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 476:
+GT centroids: 22
+Pred centroids: 0
+Image error: 22.0000
+False negatives: 22
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
+
+Image 477:
+GT centroids: 56
+Pred centroids: 0
+Image error: 56.0000
+False negatives: 56
+False positives: 0
+Precision: 1.0
+Recall: 0.5
+F-score: 0.6666666666666666
+Perfect matches (≤ Slack): 0
+Miss detections (> Threshold): 0
