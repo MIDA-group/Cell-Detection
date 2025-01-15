@@ -1,5 +1,4 @@
-# TEST WITH JSON FILE 
-### WORKING ERROR METRIC WITH HUNGARIAN ALGORITHM AND NEAR-EDGE GT EXCLUSION
+
 from typing_extensions import Self
 import math
 import numpy as np
@@ -141,7 +140,7 @@ class TotalLocalizationError:
                 errors.append(0)
             elif matched_distances[i] <= self.threshold:
                 errors.append((matched_distances[i] - self.slack)/(self.threshold - self.slack))
-            elif matched_distances[i] <= ((self.alpha+1)*self.threshold + self.alpha*self.slack):
+            elif matched_distances[i] <= ((self.alpha+1)*self.threshold - self.alpha*self.slack):
                 errors.append((matched_distances[i] - self.slack)/(self.threshold - self.slack))
             elif matched_distances[i] == 10000:
                 errors.append(1)
@@ -151,11 +150,9 @@ class TotalLocalizationError:
         final_error = []
         for i in valid_indices:
             final_error.append(errors[i])
+        miss_detections = np.count_nonzero(np.array(final_error) > 1)
         final_error.append(max(0, n_pred - n_gt)*self.alpha)
-        final_error = np.array(final_error)
-
-        perfect_matches = np.count_nonzero(final_error == 0)
-        miss_detections = np.count_nonzero(final_error > 1)
+        perfect_matches = np.count_nonzero(np.array(final_error) == 0)
 
         fp =  max(0, n_pred - n_gt)
         n_gt = len(valid_indices)

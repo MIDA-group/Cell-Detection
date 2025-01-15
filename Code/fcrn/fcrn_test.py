@@ -16,7 +16,7 @@ from skimage import filters, measure
 import cv2
 
 model = buildModel_U_net(input_dim=(512, 512, 3))
-model.load_weights('./saved_models/2462_best_weights.weights.h5')
+model.load_weights('./trained_model.hdf5')
 
 IMG_WIDTH = 512
 IMG_HEIGHT = 512
