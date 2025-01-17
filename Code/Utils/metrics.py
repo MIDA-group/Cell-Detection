@@ -256,6 +256,7 @@ def calculate_metrics(json_path,alpha):
         f.write(f"Precision: {total_precision:.4f}\n")
         f.write(f"Recall: {total_recall:.4f}\n")
         f.write(f"F-score: {total_FScore:.4f}\n")
+        f.write(f"Number of nuclei: {tp:.4f}\n")
         f.write("\nDetailed Errors:\n")
 
         for i, error in enumerate(detailed_errors, 1):
