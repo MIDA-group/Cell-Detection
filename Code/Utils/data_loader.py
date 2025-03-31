@@ -2,7 +2,7 @@ from pathlib import Path
 from torch.utils.data import Dataset
 import numpy as np
 from PIL import Image
-
+import cv2
 
 class BasicDataset(Dataset):
     def __init__(
@@ -24,9 +24,23 @@ class BasicDataset(Dataset):
 
     def _get_mask_file(self, img_id: str) -> Path:
         return self.masks_dir / f'{img_id}_mask.jpg'
+        #return self.masks_dir / f'{img_id}.jpg'
         
     def __len__(self):
         return len(self.ids)
+
+    def get_raw_image(self, idx):
+        name = self.ids[idx]
+        dir = self.images_dir[idx] if isinstance(self.images_dir, list) else self.images_dir
+        img_file = list(dir.glob(name + '.*'))[0]
+        
+        img = cv2.imread(str(img_file))
+        if img is None:
+            raise RuntimeError(f'Failed to load image: {img_file}')
+            
+        img = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
+        
+        return img
 
     def preprocess(self, image):
         # Convert to numpy array and normalize

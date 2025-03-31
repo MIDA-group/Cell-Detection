@@ -5,7 +5,8 @@ import numpy as np
 import pandas as pd
 import sys
 sys.path.insert(1, '../Utils/')
-from json_merger import merge_centroids_json
+#from json_merger import merge_centroids_json
+from json_merger_oc import merge_centroids_json
 from metrics import calculate_metrics
 from model_builder import buildModel_U_net
 import tracemalloc
@@ -15,11 +16,12 @@ warnings.filterwarnings("ignore")
 from skimage import filters, measure
 import cv2
 
-model = buildModel_U_net(input_dim=(512, 512, 3))
-model.load_weights('./trained_model.hdf5')
+IMG_WIDTH = 256
+IMG_HEIGHT = 256
 
-IMG_WIDTH = 512
-IMG_HEIGHT = 512
+model = buildModel_U_net(input_dim=(IMG_WIDTH, IMG_HEIGHT, 3))
+model.load_weights('./saved_models/split4_oc_best_weights.weights.h5')
+
 
 def load_single_image(image_path, img_width=IMG_WIDTH, img_height=IMG_HEIGHT):
     """
@@ -47,7 +49,7 @@ def load_single_image(image_path, img_width=IMG_WIDTH, img_height=IMG_HEIGHT):
 
     return img_normalized
 
-def detect_single_image(model, image_path, threshold=0.6):
+def detect_single_image(model, image_path, threshold=0.65):
     """
     Run inference on a single image
 
@@ -82,10 +84,10 @@ def process_image_with_fcrn(image_path):
         
     Returns:
         dict: Processing results including centroids and image info
-    """
+    """ 
 
     # Run inference
-    masks = detect_single_image(model, image_path, threshold=0.59)
+    masks = detect_single_image(model, image_path, threshold=0.65)
  
     # Using a default thresholding method
     thresh = filters.threshold_otsu(masks)
@@ -159,7 +161,7 @@ def process_image_folder(input_folder, output_json_path):
 
 
 if __name__ == "__main__":
-    input_folder = "/work/marco/SCIA2025/CNSeg/PatchSeg/test-images"
+    input_folder = "/work/marco/SCIA2025/OC/split4/test-images"
     output_json = "./fcrn_results.json"
     
     device = "/GPU:0" if len(tf.config.list_physical_devices('GPU')) > 0 else "/CPU:0"
@@ -184,7 +186,7 @@ if __name__ == "__main__":
 
     print(f"Execution time: {end - start:.2f} seconds")
 
-    labelme_folder_path = "/work/marco/SCIA2025/CNSeg/PatchSeg/test-labels"
+    labelme_folder_path = "/work/marco/SCIA2025/OC/split4/test-labels"
     output_json_path = "./merged_results_fcrn.json"
     
     merge_centroids_json(output_json, labelme_folder_path, output_json_path)

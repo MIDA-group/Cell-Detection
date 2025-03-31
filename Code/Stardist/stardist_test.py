@@ -7,6 +7,7 @@ from skimage.measure import regionprops
 import sys
 sys.path.insert(1, '../Utils/')
 from json_merger import merge_centroids_json
+#from json_merger_oc import merge_centroids_json
 from metrics import calculate_metrics
 import tensorflow as tf
 import tracemalloc
@@ -101,7 +102,7 @@ def process_image_folder(input_folder, output_json_path):
 
 
 if __name__ == "__main__":
-    input_folder = "/work/marco/SCIA2025/CNSeg/PatchSeg/test-images"
+    input_folder = "/work/marco/SCIA2025/CNSeg/PatchSeg/split1/test-images"
     output_json = "./stardist_results.json"
     
     device = "/GPU:0" if len(tf.config.list_physical_devices('GPU')) > 0 else "/CPU:0"
@@ -126,7 +127,7 @@ if __name__ == "__main__":
 
     print(f"Execution time: {end - start:.2f} seconds")
 
-    labelme_folder_path = "/work/marco/SCIA2025/CNSeg/PatchSeg/test-labels"
+    labelme_folder_path = "/work/marco/SCIA2025/CNSeg/PatchSeg/split1/test-labels/"
     output_json_path = "./merged_results_stardist.json"
     
     merge_centroids_json(output_json, labelme_folder_path, output_json_path)

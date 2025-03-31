@@ -70,21 +70,21 @@ def extract_centroids_from_labelme_json(json_path):
     
     return pd.DataFrame(columns=['x', 'y'])
 
-def merge_centroids_json(cellpose_json_path, labelme_folder_path, output_json_path):
+def merge_centroids_json(_json_path, labelme_folder_path, output_json_path):
     """
-    Merge centroids from Cellpose results and LabelMe ground truth JSONs.
+    Merge centroids from  results and LabelMe ground truth JSONs.
     
     Args:
-        cellpose_json_path (str): Path to the Cellpose results JSON
+        _json_path (str): Path to the  results JSON
         labelme_folder_path (str): Path to the folder containing LabelMe JSONs
         output_json_path (str): Path to save the merged results JSON
     """
-    with open(cellpose_json_path, 'r') as f:
-        cellpose_results = json.load(f)
+    with open(_json_path, 'r') as f:
+        _results = json.load(f)
 
     merged_results = []
     
-    for entry in cellpose_results:
+    for entry in _results:
         filename = entry.get('filename', '')
         
         labelme_json_path = os.path.join(

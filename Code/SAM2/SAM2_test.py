@@ -9,7 +9,8 @@ from sam2.build_sam import build_sam2
 from sam2.automatic_mask_generator import SAM2AutomaticMaskGenerator
 import sys
 sys.path.insert(1, '../Utils/')
-from json_merger import merge_centroids_json
+#from json_merger import merge_centroids_json
+from json_merger_oc import merge_centroids_json
 from metrics import calculate_metrics
 import time
 import tracemalloc
@@ -117,7 +118,7 @@ def process_image_folder(input_folder, output_json_path):
 
 
 if __name__ == "__main__":
-    input_folder = "/work/marco/SCIA2025/CNSeg/PatchSeg/test-images"
+    input_folder = "/work/marco/SCIA2025/OC/split2/test-images"
     output_json = "./SAM2_results.json"
     
     device = "cuda" if torch.cuda.is_available() else "cpu"
@@ -141,7 +142,7 @@ if __name__ == "__main__":
 
     print(f"Execution time: {end - start:.2f} seconds")
 
-    labelme_folder_path = "/work/marco/SCIA2025/CNSeg/PatchSeg/test-labels"
+    labelme_folder_path = "/work/marco/SCIA2025/OC/split2/test-labels/"
     output_json_path = "./merged_results_SAM2.json"
     
     merge_centroids_json(output_json, labelme_folder_path, output_json_path)

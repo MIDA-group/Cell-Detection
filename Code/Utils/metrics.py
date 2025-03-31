@@ -1,10 +1,9 @@
 
-from typing_extensions import Self
 import math
 import numpy as np
-import pandas as pd
 
-def filter_edge_centroids(gt_centroids, pred_centroids, image_width, image_height, edge_threshold):
+
+def filter_edge_centroids(gt_centroids, image_width, image_height, edge_threshold):
     """
     Filter out GT centroids and their predictions if GT is too close to image edges.
 
@@ -20,7 +19,6 @@ def filter_edge_centroids(gt_centroids, pred_centroids, image_width, image_heigh
         filtered_pred: corresponding predictions
         valid_indices: indices of valid GT centroids
     """
-
     # Check which GT centroids are far enough from edges
     valid_indices = []
     filtered_gt = []
@@ -105,12 +103,6 @@ class TotalLocalizationError:
         n_gt = len(gt_points)
         n_pred = len(pred_points)
 
-        # Handle special cases
-        if n_pred == 0:
-            return float(n_gt), {'fn': n_gt, 'fp': 0, 'matches': 0, 'perfect_matches': 0, 'miss_detections': 0}, n_gt, 0
-        if n_gt == 0:
-            return float(n_pred * self.alpha), {'fn': 0, 'fp': n_pred, 'matches': 0, 'perfect_matches': 0, 'miss_detections': 0}, 1e-5, n_pred
-
         # Calculate base distance matrix
         distance_matrix = np.zeros((max(n_gt, n_pred), max(n_gt, n_pred)))
 
@@ -131,10 +123,11 @@ class TotalLocalizationError:
         row_ind, col_ind = linear_sum_assignment(distance_matrix)
         matched_distances = distance_matrix[row_ind, col_ind]
 
-        filtered_gt, valid_indices = filter_edge_centroids(gt_points, pred_points, image_width, image_height, edge_threshold)
+        filtered_gt, valid_indices = filter_edge_centroids(gt_points, image_width, image_height, edge_threshold)
 
         # Calculate the error for each pairing
         errors = []
+        c = 0
         for i in range(len(matched_distances)):
             if matched_distances[i] <= self.slack:
                 errors.append(0)
@@ -147,15 +140,22 @@ class TotalLocalizationError:
             else:
                 errors.append(1 + self.alpha)
 
+        fp =  max(0, n_pred - n_gt)
         final_error = []
         for i in valid_indices:
             final_error.append(errors[i])
         miss_detections = np.count_nonzero(np.array(final_error) > 1)
-        final_error.append(max(0, n_pred - n_gt)*self.alpha)
         perfect_matches = np.count_nonzero(np.array(final_error) == 0)
+        final_error.append(fp*self.alpha)
 
-        fp =  max(0, n_pred - n_gt)
         n_gt = len(valid_indices)
+
+        # Handle special cases
+        if n_pred == 0:
+            return float(n_gt), {'fn': n_gt, 'fp': 0, 'matches': 0, 'perfect_matches': 0, 'miss_detections': 0}, 0, 0, n_gt
+        if n_gt == 0:
+            return float(n_pred * self.alpha), {'fn': 0, 'fp': n_pred, 'matches': 0, 'perfect_matches': 0, 'miss_detections': 0}, 0, n_pred, 0
+        
 
         error_metrics = {
             'fn': max(0, n_gt - n_pred) + miss_detections,  # False negatives (missing detections)
@@ -164,12 +164,9 @@ class TotalLocalizationError:
             'miss_detections': miss_detections, # Detection over the threshold value
         }
 
-        if len(valid_indices) == 0:
-            return np.sum(final_error), error_metrics, 1e-5, n_pred
-        else:
-          tp = len(valid_indices)
+        tp = len(valid_indices) - np.count_nonzero(np.array(final_error) == 1)
 
-        return np.sum(final_error), error_metrics, tp, n_pred
+        return np.sum(final_error), error_metrics, tp, n_pred, n_gt
 
     def calculate_total_localization_error(self):
         """
@@ -185,6 +182,7 @@ class TotalLocalizationError:
         false_negatives = []
         false_positives = []
         true_positives = []
+        ground_truth = []
 
         for img_info in self.images_info:
             # Extract image information
@@ -196,22 +194,30 @@ class TotalLocalizationError:
             # Convert centroids to list of tuples
             gt_points = list(zip(gt_centroids['x'], gt_centroids['y']))
             pred_points = list(zip(pred_centroids['x'], pred_centroids['y']))
-
+            
             # Calculate localization error for this image
-            img_error, error_metrics, tp, n_pred = self._match_centroids(
+            img_error, error_metrics, tp, n_pred, n_gt = self._match_centroids(
                 image_width, image_height, gt_points, pred_points, self.edge_threshold
             )
 
-            fn = error_metrics['fn']
-            fp = error_metrics['fp']
-            precision =  tp / (tp + fp)
-            recall = tp / (tp + fn)
-            FScore = 2*tp / (2*tp + fn + fp)
+            if tp == 0:
+                fn = 0
+                fp = 0
+                precision =  0
+                recall = 0
+                FScore = 0
+            else: 
+                fn = error_metrics['fn']
+                fp = error_metrics['fp']
+                precision =  tp / (tp + fp)
+                recall = tp / (tp + fn)
+                FScore = 2*tp / (2*tp + fn + fp)
 
             image_errors.append(img_error)
             false_negatives.append(fn)
             false_positives.append(fp)
             true_positives.append(tp)
+            ground_truth.append(n_gt)
 
             detailed_errors.append({
                 'gt_count': tp,
@@ -227,12 +233,13 @@ class TotalLocalizationError:
             })
 
         # Calculate total localization error, precision, recall and Fscore
-        total_error = np.sum(image_errors) / np.sum(true_positives)
+        total_error = np.sum(image_errors) / np.sum(ground_truth)
         total_precision = np.sum(true_positives) / (np.sum(true_positives) + np.sum(false_positives))
         total_recall = np.sum(true_positives) / (np.sum(true_positives) + np.sum(false_negatives))
         total_FScore = 2*np.sum(true_positives) / (2*np.sum(true_positives) + np.sum(false_negatives) + np.sum(false_positives))
+        total_ground_truth = np.sum(ground_truth)
 
-        return total_error, total_precision, total_recall, total_FScore, detailed_errors, np.sum(true_positives)
+        return total_error, total_precision, total_recall, total_FScore, detailed_errors, total_ground_truth
 
 import json 
 
@@ -249,14 +256,14 @@ def calculate_metrics(json_path,alpha):
         edge_threshold=25
     )
 
-    total_error, total_precision, total_recall, total_FScore, detailed_errors, tp = tle_calculator.calculate_total_localization_error()
+    total_error, total_precision, total_recall, total_FScore, detailed_errors, ground_truth = tle_calculator.calculate_total_localization_error()
     file_name = 'evaluation_results_' + str(alpha) + '.txt'
     with open(file_name, 'w') as f:
         f.write(f"Total Localization Error: {total_error:.4f}\n")
         f.write(f"Precision: {total_precision:.4f}\n")
         f.write(f"Recall: {total_recall:.4f}\n")
         f.write(f"F-score: {total_FScore:.4f}\n")
-        f.write(f"Number of nuclei: {tp:.4f}\n")
+        f.write(f"Number of nuclei: {ground_truth:.4f}\n")
         f.write("\nDetailed Errors:\n")
 
         for i, error in enumerate(detailed_errors, 1):

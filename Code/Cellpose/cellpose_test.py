@@ -7,6 +7,7 @@ from scipy.ndimage import center_of_mass
 import sys
 sys.path.insert(1, '../Utils/')
 from json_merger import merge_centroids_json
+#from json_merger_oc import merge_centroids_json
 from metrics import calculate_metrics
 import time 
 import torch
@@ -15,7 +16,7 @@ import tracemalloc
 warnings.filterwarnings("ignore")
 
 
-def process_image_with_cellpose(image_path, model_type='cyto', diameter=30):
+def process_image_with_cellpose(image_path, model_type='cyto', diameter=None):
     """
     Process a single image using Cellpose.
     
@@ -60,7 +61,7 @@ def process_image_with_cellpose(image_path, model_type='cyto', diameter=30):
     
     return result
 
-def process_image_folder(input_folder, output_json_path, model_type='cyto', diameter=30):
+def process_image_folder(input_folder, output_json_path, model_type='cyto', diameter=None):
     """
     Process all images in a given folder using Cellpose.
     
@@ -108,7 +109,7 @@ def process_image_folder(input_folder, output_json_path, model_type='cyto', diam
 
 if __name__ == "__main__":
 
-    input_folder = "/work/marco/SCIA2025/CNSeg/PatchSeg/test-images"
+    input_folder = "/work/marco/SCIA2025/CNSeg/PatchSeg/split1/test-images"
     output_json = "./cellpose_results.json"
     
     device = "cuda" if torch.cuda.is_available() else "cpu"
@@ -132,9 +133,9 @@ if __name__ == "__main__":
 
     print(f"Execution time: {end - start:.2f} seconds")
 
-    labelme_folder_path = "/work/marco/SCIA2025/CNSeg/PatchSeg/test-labels"
+    labelme_folder_path = "/work/marco/SCIA2025/CNSeg/PatchSeg/split1/test-labels/"
     output_json_path = "./merged_results_cellpose.json"
     
     merge_centroids_json(output_json, labelme_folder_path, output_json_path)
-    for alpha in [0.3,0.5,1]:
+    for alpha in [0.3,1]:
         calculate_metrics(output_json_path,alpha)

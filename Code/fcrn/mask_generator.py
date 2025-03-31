@@ -168,10 +168,10 @@ class MaskGenerator:
 
 if __name__ == '__main__':
 
-    image_dir = "/work/marco/SCIA2025/CNSeg/PatchSeg/val-images"         
-    annotation_dir = "/work/marco/SCIA2025/CNSeg/PatchSeg/val-labels"
-    output_dir = "/work/marco/SCIA2025/CNSeg/PatchSeg/val-masks"
-    removed_dir = "/work/marco/SCIA2025/CNSeg/PatchSeg/val-removed"
+    image_dir = "/work/marco/SCIA2025/OC/split1/train-images/"         
+    annotation_dir = "/work/marco/SCIA2025/OC/split1/train-labels/"
+    output_dir = "/work/marco/SCIA2025/OC/split1/train-masks"
+    removed_dir = "/work/marco/SCIA2025/OC/train-removed"
 
     generator = MaskGenerator(
         image_dir = image_dir,

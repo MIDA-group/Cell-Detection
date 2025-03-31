@@ -10,23 +10,23 @@ import random
 import os
 from pathlib import Path
 
-IMG_WIDTH = 512
-IMG_HEIGHT = 512
-BATCH_SIZE = 1
+IMG_WIDTH = 256
+IMG_HEIGHT = 256
+BATCH_SIZE = 32
 EPOCHS = 100
-MAX_TRAIN_IMAGES = 2462
+MAX_TRAIN_IMAGES = None
 
-TRAIN_PATH = "/work/marco/SCIA2025/CNSeg/PatchSeg/train-images"    
-TRAIN_MASK_PATH = "/work/marco/SCIA2025/CNSeg/PatchSeg/train-masks"  
-VAL_PATH = "/work/marco/SCIA2025/CNSeg/PatchSeg/val-images"         
-VAL_MASK_PATH = "/work/marco/SCIA2025/CNSeg/PatchSeg/val-masks" 
+TRAIN_PATH = "/work/marco/SCIA2025/OC/split4/train-images/"    
+TRAIN_MASK_PATH = "/work/marco/SCIA2025/OC/split4/train-masks"  
+VAL_PATH = "/work/marco/SCIA2025/OC/split4/val-images"         
+VAL_MASK_PATH = "/work/marco/SCIA2025/OC/split4/val-masks" 
 
 # Model saving paths
 MODEL_DIR = Path("./saved_models")
 MODEL_DIR.mkdir(exist_ok=True)
-BEST_MODEL_PATH = MODEL_DIR / "2462_best_model.keras"
-FINAL_MODEL_PATH = MODEL_DIR / "2462_final_model.keras"
-WEIGHTS_PATH = MODEL_DIR / "2462_best_weights.weights.h5"
+BEST_MODEL_PATH = MODEL_DIR / "split4_oc_best_model.keras"
+FINAL_MODEL_PATH = MODEL_DIR / "split4_oc_final_model.keras"
+WEIGHTS_PATH = MODEL_DIR / "split4_oc_best_weights.weights.h5"
 
 # Set random seed for reproducibility
 SEED = 42
