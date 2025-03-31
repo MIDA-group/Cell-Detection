@@ -102,7 +102,7 @@ def process_image_folder(input_folder, output_json_path):
 
 
 if __name__ == "__main__":
-    input_folder = "/work/marco/SCIA2025/CNSeg/PatchSeg/split1/test-images"
+    input_folder = "your/path/to/data"
     output_json = "./stardist_results.json"
     
     device = "/GPU:0" if len(tf.config.list_physical_devices('GPU')) > 0 else "/CPU:0"
@@ -127,7 +127,7 @@ if __name__ == "__main__":
 
     print(f"Execution time: {end - start:.2f} seconds")
 
-    labelme_folder_path = "/work/marco/SCIA2025/CNSeg/PatchSeg/split1/test-labels/"
+    labelme_folder_path = "your/path/to/data"
     output_json_path = "./merged_results_stardist.json"
     
     merge_centroids_json(output_json, labelme_folder_path, output_json_path)

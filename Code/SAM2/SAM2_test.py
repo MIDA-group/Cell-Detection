@@ -118,7 +118,7 @@ def process_image_folder(input_folder, output_json_path):
 
 
 if __name__ == "__main__":
-    input_folder = "/work/marco/SCIA2025/OC/split2/test-images"
+    input_folder = "your/path/to/data"
     output_json = "./SAM2_results.json"
     
     device = "cuda" if torch.cuda.is_available() else "cpu"
@@ -142,7 +142,7 @@ if __name__ == "__main__":
 
     print(f"Execution time: {end - start:.2f} seconds")
 
-    labelme_folder_path = "/work/marco/SCIA2025/OC/split2/test-labels/"
+    labelme_folder_path = "your/path/to/data"
     output_json_path = "./merged_results_SAM2.json"
     
     merge_centroids_json(output_json, labelme_folder_path, output_json_path)

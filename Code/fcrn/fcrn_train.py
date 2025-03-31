@@ -16,10 +16,10 @@ BATCH_SIZE = 32
 EPOCHS = 100
 MAX_TRAIN_IMAGES = None
 
-TRAIN_PATH = "/work/marco/SCIA2025/OC/split4/train-images/"    
-TRAIN_MASK_PATH = "/work/marco/SCIA2025/OC/split4/train-masks"  
-VAL_PATH = "/work/marco/SCIA2025/OC/split4/val-images"         
-VAL_MASK_PATH = "/work/marco/SCIA2025/OC/split4/val-masks" 
+TRAIN_PATH = "your/path/to/data"    
+TRAIN_MASK_PATH = "your/path/to/data"  
+VAL_PATH = "your/path/to/data"         
+VAL_MASK_PATH = "your/path/to/data" 
 
 # Model saving paths
 MODEL_DIR = Path("./saved_models")
