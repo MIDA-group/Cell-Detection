@@ -1,7 +1,7 @@
 Code for:
 # A Comparison of Deep Learning Methods for Cell Detection in Digital Cytology
 ## M. Acerbis, N. Sladoje, and J. Lindblad
-[ArXiv pre-print](https://arxiv.org/abs/2504.06957) [SCIA2025] 
+[ArXiv pre-print](https://arxiv.org/abs/2504.06957) [SCIA2025](https://link.springer.com/chapter/10.1007/978-3-031-95918-9_19)
 
 ### Dataset
 The [CNSeg Dataset](https://www.sciencedirect.com/science/article/pii/S016926072300398X) is made publicly available [on Kaggle](https://www.kaggle.com/datasets/zhaojing0522/cervical-nucleus-segmentation).
